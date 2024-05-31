@@ -24,19 +24,19 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "I am a student, a Flutter Mobile App Developer and a Graphic Designer. I like to develop mobile apps with a beautiful UI. I also lead a graphic design team of talented individuals in my university society(aumlsa).";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "App developement",
+  "Graphic Design",
+  "UI Design",
+  "UX Design",
+  "Team Leadership",
+  "Python",
 ];
 
 /**
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about creating appealing UIs and designs, whether in mobile apps, prototypes or posters.";
 
 const About = () => {
   return (
